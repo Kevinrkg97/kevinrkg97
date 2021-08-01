@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/kevinrkg97/static/css/main.8129abe0.chunk.css",
+    "main.js": "/kevinrkg97/static/js/main.8946bbd4.chunk.js",
+    "main.js.map": "/kevinrkg97/static/js/main.8946bbd4.chunk.js.map",
+    "runtime-main.js": "/kevinrkg97/static/js/runtime-main.43e16f6b.js",
+    "runtime-main.js.map": "/kevinrkg97/static/js/runtime-main.43e16f6b.js.map",
+    "static/js/2.c797f516.chunk.js": "/kevinrkg97/static/js/2.c797f516.chunk.js",
+    "static/js/2.c797f516.chunk.js.map": "/kevinrkg97/static/js/2.c797f516.chunk.js.map",
+    "index.html": "/kevinrkg97/index.html",
+    "static/css/main.8129abe0.chunk.css.map": "/kevinrkg97/static/css/main.8129abe0.chunk.css.map",
+    "static/js/2.c797f516.chunk.js.LICENSE.txt": "/kevinrkg97/static/js/2.c797f516.chunk.js.LICENSE.txt",
+    "static/media/aboutMe.33afd8a4.svg": "/kevinrkg97/static/media/aboutMe.33afd8a4.svg",
+    "static/media/androidstudio.af176bcd.ico": "/kevinrkg97/static/media/androidstudio.af176bcd.ico",
+    "static/media/header.css": "/kevinrkg97/static/media/banner.b69283b7.jpg",
+    "static/media/css.b3c0acbf.svg": "/kevinrkg97/static/media/css.b3c0acbf.svg",
+    "static/media/developer.34b25be3.svg": "/kevinrkg97/static/media/developer.34b25be3.svg",
+    "static/media/flutter.3a0980a9.svg": "/kevinrkg97/static/media/flutter.3a0980a9.svg",
+    "static/media/formLogin.ef2993f0.png": "/kevinrkg97/static/media/formLogin.ef2993f0.png",
+    "static/media/geoaplication1.eeaf9a95.png": "/kevinrkg97/static/media/geoaplication1.eeaf9a95.png",
+    "static/media/github.57583dbb.svg": "/kevinrkg97/static/media/github.57583dbb.svg",
+    "static/media/goals.c359d197.svg": "/kevinrkg97/static/media/goals.c359d197.svg",
+    "static/media/html.8c11e1a8.svg": "/kevinrkg97/static/media/html.8c11e1a8.svg",
+    "static/media/javascript.6169c191.svg": "/kevinrkg97/static/media/javascript.6169c191.svg",
+    "static/media/javascript.72b6406b.png": "/kevinrkg97/static/media/javascript.72b6406b.png",
+    "static/media/linux.0f774db8.ico": "/kevinrkg97/static/media/linux.0f774db8.ico",
+    "static/media/mysql.4e6fc768.svg": "/kevinrkg97/static/media/mysql.4e6fc768.svg",
+    "static/media/php.fde83698.svg": "/kevinrkg97/static/media/php.fde83698.svg",
+    "static/media/postgres.8ea81c4b.svg": "/kevinrkg97/static/media/postgres.8ea81c4b.svg",
+    "static/media/python.597b2f1f.svg": "/kevinrkg97/static/media/python.597b2f1f.svg",
+    "static/media/react.7098e271.svg": "/kevinrkg97/static/media/react.7098e271.svg",
+    "static/media/skills.90b12ad5.svg": "/kevinrkg97/static/media/skills.90b12ad5.svg",
+    "static/media/sql.8fb2609e.jpg": "/kevinrkg97/static/media/sql.8fb2609e.jpg",
+    "static/media/windows.b4c4dcb1.svg": "/kevinrkg97/static/media/windows.b4c4dcb1.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.43e16f6b.js",
+    "static/js/2.c797f516.chunk.js",
+    "static/css/main.8129abe0.chunk.css",
+    "static/js/main.8946bbd4.chunk.js"
+  ]
+}
