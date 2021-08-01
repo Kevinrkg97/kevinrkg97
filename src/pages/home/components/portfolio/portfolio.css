@@ -1,0 +1,161 @@
+.portfolio {
+    width: 100%;
+}
+
+.portfolio h2{
+    color: #F9A826;
+    padding: 1rem;
+    width: 85%;
+    margin: auto;
+}
+
+.items{
+   position: relative;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   padding: 2rem 0;
+   flex-wrap: wrap;
+}
+
+.items .item{
+    position: relative;
+    width: 20rem;
+    height: 20rem;
+    color: #fff;
+    background: #000;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 1rem 3rem;
+    transition: 0.5s;
+}
+
+.items .item img {
+    margin: 1.5rem;
+    text-align: center;
+}
+
+.items .item img{
+    width: 100%;
+    height: 100%;
+    z-index: 1;
+    margin: auto;
+}
+.items .item .containerDescription{
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+}
+
+.items .item .containerDescription .description{
+    position: absolute;
+    top: 100%;
+    width: 100%;
+    margin: auto;
+    padding: 1rem;
+    height: 75%;
+    z-index: 1;
+    background: rgba(0, 0, 0, 0.9);
+    color: #fff;
+    transition: all 0.5s;
+}
+
+.items .item .containerDescription .description .text{
+    height: 85%;
+    width: 100%;
+    overflow-y: auto;
+}
+
+.items .item .containerDescription .description .more{
+    height: 15%;
+    width: 100%;
+}
+
+.items .item .containerDescription .description .more .link{
+    z-index: 2;
+    position: absolute;
+    right: 40%;    
+    border-radius: 5px;
+    padding: 0.2rem;
+    background: #fff;
+    border: 1px solid #000;
+    opacity: 0.8;
+    color: #000;
+}
+
+.items .item .containerDescription .description .more .link:hover{
+    opacity: 1;
+}
+
+.items .item .containerDescription .description .more img{
+    width: 2rem;
+    float: right;
+}
+
+.items .item:hover .description {
+    top: 25%;
+}
+
+
+
+
+
+
+
+.items .item::after{
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(45deg, #f16406, #F9A826);
+}
+
+
+.items .item::before{
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(45deg, #f16406, #F9A826);
+    filter: blur(30px);
+}
+
+.items .card:nth-child(2)::before,
+.items .item:nth-child(2)::after{
+    background: linear-gradient(45deg, #F9A826, #F9A826);
+
+}
+
+.items .item:nth-child(3)::before,
+.items .item:nth-child(3)::after{
+    background: linear-gradient(45deg, #F9A826, #f16406);
+
+}
+
+.items .item span{
+    position: absolute;
+    top: 6px;
+    left: 6px;
+    right: 6px;
+    bottom: 6px;
+    background: rgba(0, 0, 0, 1);
+    z-index: 1;
+}
+
+.items .item span::before{
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 50%;
+    height: 100%;
+    background: rgba(100, 100, 100, 0.2);
+    pointer-events: none;
+}

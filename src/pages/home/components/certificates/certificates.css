@@ -1,0 +1,22 @@
+.certificates{
+    width: 85%;
+    margin: auto;
+    padding: 1rem;
+}
+
+.certificates h2{
+    color: #F9A826;
+}
+
+.certificates .items{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    margin: auto;
+}
+
+.certificates .items img{
+    width: 20rem;
+    padding: 2rem 0;
+
+}

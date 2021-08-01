@@ -1,0 +1,66 @@
+.header{
+    width: 100%;
+    height: 60vh;
+    margin: auto;
+    background-image: url(./assets/banner.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    border-radius: 0 0 0 10rem;
+}
+
+.banner{
+    height: 100%;
+    width: 50%;
+    float: right;
+    border-radius: 10rem 0 0 5rem; 
+    background: rgba(0, 0, 0, 0.7);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    justify-content: flex-end;
+}
+
+
+.header .banner hr{
+    width: 85%;
+    margin: auto;
+    margin-bottom: 1.5rem;
+}
+
+.header .banner img{
+    width: 75%;
+    vertical-align: middle;
+    margin: auto;
+}
+
+.header .banner h2{
+    margin-bottom: 1rem;
+
+}
+
+
+@media (max-width: 500px) {
+    .header {
+        border-radius: 0 0 0 6rem;
+
+    }
+    .banner{
+        width: 100%;
+        height: 100%;
+    }
+
+    .header .banner img{
+        width: 90%;
+    }
+
+}
+
+@media (max-width: 1200px) {
+    .header .banner{
+        width: 65%;
+    }
+}
+

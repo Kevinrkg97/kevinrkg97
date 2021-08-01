@@ -1,0 +1,30 @@
+.skills{
+    padding: 3rem 0;
+}
+
+.skills .content{
+    width: 100%;
+}
+
+.skills .content .text{
+    width: 50%;
+    margin: auto;
+    padding: 1rem;
+}
+
+.skills .content .text h2{
+    color: #F9A826;
+}
+
+.skills .content .image{
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+}
+
+.skills .content .image img{
+    width: 2rem;
+    margin: 1rem;
+}

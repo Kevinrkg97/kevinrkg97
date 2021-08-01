@@ -1,0 +1,56 @@
+.contact{
+    width: 100%;
+    padding: 5rem 0;
+}
+
+.contact h2{
+    padding-bottom: 0.5rem;
+    color: #F9A826;
+    font-size: 2rem;
+}
+
+.contact h2, .contact hr{
+    text-align: center;
+    width: 50%;
+    margin: auto;
+}
+
+.contact form{
+    padding-top: 2rem;
+    width: 75%;
+    margin: auto;
+}
+
+.contact form{
+    display: flex;
+}
+
+.contact form .data, .contact form .message{
+    width: 45%;
+}
+
+.contact form .data input, .contact form .message textarea{
+    display: flex;
+    flex-direction: row;
+    width: 85%;
+    padding: 0.5rem;
+    font-size: 1.2rem;
+    margin: auto;
+    color: #fff;
+    margin-bottom: 1rem;
+    border-top: #fff;
+    border-right: #fff;
+    background: none;
+}
+
+.contact form .message textarea{
+    height: 100%;
+}
+
+.contact form .message button{
+    border: none;
+    background: #F9A826;
+    padding: 0.5rem 1.5rem;
+    font-size: 1rem;
+    margin: 1rem;
+}

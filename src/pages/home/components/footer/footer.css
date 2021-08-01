@@ -1,0 +1,22 @@
+footer{
+    width: 100%;
+    background: rgb(25, 25, 25);
+}
+footer .content{
+    padding: 3rem;
+}
+
+footer .content h3{
+    text-align: right;
+    margin: 0.2rem 0;
+}
+
+footer .content p{
+    float: left;
+}
+
+footer .content img{
+    float: right;
+    width: 2rem;
+    margin: 0.5rem 0.5rem;
+}
