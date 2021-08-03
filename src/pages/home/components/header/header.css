@@ -41,6 +41,12 @@
 
 }
 
+@media (max-width: 1200px) {
+    .header .banner{
+        width: 65%;
+    }
+}
+
 
 @media (max-width: 500px) {
     .header {
@@ -58,9 +64,5 @@
 
 }
 
-@media (max-width: 1200px) {
-    .header .banner{
-        width: 65%;
-    }
-}
+
 

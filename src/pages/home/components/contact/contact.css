@@ -47,10 +47,18 @@
     height: 100%;
 }
 
-.contact form .message button{
+.contact form .message input{
     border: none;
     background: #F9A826;
     padding: 0.5rem 1.5rem;
     font-size: 1rem;
     margin: 1rem;
+    opacity: 0.7;
+    transition: all 0.2s;
+}
+
+.contact form .message input:hover{
+    opacity: 1;
+    transform: scale(1.1);
+
 }
