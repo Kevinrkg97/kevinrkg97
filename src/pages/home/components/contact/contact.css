@@ -62,3 +62,40 @@
     transform: scale(1.1);
 
 }
+
+
+
+@media (max-width: 1200px) {
+    
+    .contact form .data, .contact form .message{
+        width: 50%;
+    }
+    
+    .contact form .data input, .contact form .message textarea{
+        width: 95%;
+        
+    }
+    
+}
+
+
+@media (max-width: 800px) {
+    
+    .contact form{
+        display: block;
+    }
+
+    .contact form .message{
+        text-align: center;
+    }
+    
+    .contact form .data, .contact form .message{
+        width: 90%;
+    }
+    
+    .contact form .message textarea{
+        height: 20vh;
+    }
+    
+    
+}

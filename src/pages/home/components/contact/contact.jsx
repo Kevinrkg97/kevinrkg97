@@ -1,13 +1,14 @@
 import './contact.css';
 import React from 'react';
 import emailjs from 'emailjs-com';
+import token from '../../../../dataEmail';
 
 export default function Contact (){
 
     function sendEmail(e) {
         e.preventDefault();
     
-        emailjs.sendForm('Portfolio', 'kevinrkg97-contacto', e.target, 'user_eHxQsQ8VDlXV45h08H4w4')
+        emailjs.sendForm(`${token.format}`, `${token.id}`, e.target, `${token.tokenUser}`)
           .then((result) => {
               console.log(result.text);
           }, (error) => {

@@ -27,7 +27,6 @@
 .header .banner hr{
     width: 85%;
     margin: auto;
-    margin-bottom: 1.5rem;
 }
 
 .header .banner img{
@@ -39,6 +38,18 @@
 .header .banner h2{
     margin-bottom: 1rem;
 
+}
+
+.header .banner .text .social{
+    width: 50%;
+    margin: auto;
+    display: flex;
+    justify-content: space-evenly;
+    padding: 0.5rem;
+}
+
+.header .banner .text .social img{
+    width: 2rem;
 }
 
 @media (max-width: 1200px) {
