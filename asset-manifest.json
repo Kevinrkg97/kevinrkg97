@@ -1,15 +1,16 @@
 {
   "files": {
-    "main.css": "/kevinrkg97/static/css/main.9ed43aa4.chunk.css",
-    "main.js": "/kevinrkg97/static/js/main.352f15ad.chunk.js",
-    "main.js.map": "/kevinrkg97/static/js/main.352f15ad.chunk.js.map",
+    "main.css": "/kevinrkg97/static/css/main.bc629b72.chunk.css",
+    "main.js": "/kevinrkg97/static/js/main.d5114d43.chunk.js",
+    "main.js.map": "/kevinrkg97/static/js/main.d5114d43.chunk.js.map",
     "runtime-main.js": "/kevinrkg97/static/js/runtime-main.43e16f6b.js",
     "runtime-main.js.map": "/kevinrkg97/static/js/runtime-main.43e16f6b.js.map",
     "static/js/2.ee0b4799.chunk.js": "/kevinrkg97/static/js/2.ee0b4799.chunk.js",
     "static/js/2.ee0b4799.chunk.js.map": "/kevinrkg97/static/js/2.ee0b4799.chunk.js.map",
     "index.html": "/kevinrkg97/index.html",
-    "static/css/main.9ed43aa4.chunk.css.map": "/kevinrkg97/static/css/main.9ed43aa4.chunk.css.map",
+    "static/css/main.bc629b72.chunk.css.map": "/kevinrkg97/static/css/main.bc629b72.chunk.css.map",
     "static/js/2.ee0b4799.chunk.js.LICENSE.txt": "/kevinrkg97/static/js/2.ee0b4799.chunk.js.LICENSE.txt",
+    "static/media/React+Redux.a84b75ac.jpg": "/kevinrkg97/static/media/React+Redux.a84b75ac.jpg",
     "static/media/aboutMe.33afd8a4.svg": "/kevinrkg97/static/media/aboutMe.33afd8a4.svg",
     "static/media/androidstudio.af176bcd.ico": "/kevinrkg97/static/media/androidstudio.af176bcd.ico",
     "static/media/header.css": "/kevinrkg97/static/media/banner.b69283b7.jpg",
@@ -37,7 +38,7 @@
   "entrypoints": [
     "static/js/runtime-main.43e16f6b.js",
     "static/js/2.ee0b4799.chunk.js",
-    "static/css/main.9ed43aa4.chunk.css",
-    "static/js/main.352f15ad.chunk.js"
+    "static/css/main.bc629b72.chunk.css",
+    "static/js/main.d5114d43.chunk.js"
   ]
 }
