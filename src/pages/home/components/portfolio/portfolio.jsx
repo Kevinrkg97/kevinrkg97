@@ -4,6 +4,7 @@ import fuf1 from './assets/formularioUsuariosFlask/formLogin.png'
 import loginReact from './assets/formReact/Login.png'
 import react from './assets/react.svg';
 import python from './assets/python.svg'
+import pokeApi from './assets/pokeApi/pokeApi.png';
 
 const Portfolio = () => {
     return(
@@ -54,6 +55,23 @@ const Portfolio = () => {
                             </div>
                             <div className="more">
                                 <a className="link" href="https://github.com/Kevinrkg97/reactLogin" target="_blank" rel="noreferrer">Ir al sitio</a>
+                                <img src={react} alt="react" />
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div className="item">
+                    <span />
+                    <img src={pokeApi} alt="pokeApi" />
+                    <div className="containerDescription">
+                        <div className="description">
+                            <div className="text">
+                                <p>PokeApi</p>
+                                <br />
+                                <p>Aplicación web React que consume una API pokemon, se muestran cartas con los diferentes pokemon y se permite hacer busquedas.</p>
+                            </div>
+                            <div className="more">
+                                <a className="link" href="https://github.com/Kevinrkg97/pokeApi" target="_blank" rel="noreferrer">Ir al sitio</a>
                                 <img src={react} alt="react" />
                             </div>
                         </div>
