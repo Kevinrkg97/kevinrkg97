@@ -2,6 +2,7 @@ import './certificates.css';
 import sql from './assets/sql.jpg';
 import javascript from './assets/javascript.png';
 import react from './assets/react.jpg';
+import php from './assets/php.jpg'
 
 
 const Certificates = () => {
@@ -12,6 +13,7 @@ const Certificates = () => {
                 <img src={sql} alt="sql" />
                 <img src={javascript} alt="javascript" />
                 <img src={react} alt="react" />
+                <img src={php} alt="php" />
             </div>
         </div>
     );
