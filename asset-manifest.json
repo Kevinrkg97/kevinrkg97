@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/kevinrkg97/static/css/main.9d492ae8.chunk.css",
-    "main.js": "/kevinrkg97/static/js/main.4134b025.chunk.js",
-    "main.js.map": "/kevinrkg97/static/js/main.4134b025.chunk.js.map",
+    "main.js": "/kevinrkg97/static/js/main.015e57bc.chunk.js",
+    "main.js.map": "/kevinrkg97/static/js/main.015e57bc.chunk.js.map",
     "runtime-main.js": "/kevinrkg97/static/js/runtime-main.43e16f6b.js",
     "runtime-main.js.map": "/kevinrkg97/static/js/runtime-main.43e16f6b.js.map",
     "static/js/2.5b335e07.chunk.js": "/kevinrkg97/static/js/2.5b335e07.chunk.js",
@@ -26,6 +26,7 @@
     "static/media/linux.0f774db8.ico": "/kevinrkg97/static/media/linux.0f774db8.ico",
     "static/media/messageSent.9fbe60d8.svg": "/kevinrkg97/static/media/messageSent.9fbe60d8.svg",
     "static/media/mysql.4e6fc768.svg": "/kevinrkg97/static/media/mysql.4e6fc768.svg",
+    "static/media/php.7e774045.jpg": "/kevinrkg97/static/media/php.7e774045.jpg",
     "static/media/php.fde83698.svg": "/kevinrkg97/static/media/php.fde83698.svg",
     "static/media/pokeApi.662927d1.png": "/kevinrkg97/static/media/pokeApi.662927d1.png",
     "static/media/postgres.8ea81c4b.svg": "/kevinrkg97/static/media/postgres.8ea81c4b.svg",
@@ -40,6 +41,6 @@
     "static/js/runtime-main.43e16f6b.js",
     "static/js/2.5b335e07.chunk.js",
     "static/css/main.9d492ae8.chunk.css",
-    "static/js/main.4134b025.chunk.js"
+    "static/js/main.015e57bc.chunk.js"
   ]
 }
